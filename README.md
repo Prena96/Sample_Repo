@@ -1,2 +1,3 @@
 # Sample_Repo
-Learn git 
+version control system 
+git hub
